@@ -1,4 +1,4 @@
-# Greenspark Task:
+# Ezekia Task:
 
 ## Context
 You manage a natural history museum website. The museum has a set of web pages, each with a theme, and containing a list of that theme's highlights within the museum's exhibits.
